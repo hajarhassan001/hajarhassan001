@@ -1,4 +1,4 @@
-# Hi, I'm Hajar Hassan 
+# Hi, I'm Hajer Hassan 
 
 Software Developer specialized in Flutter & Dart with a strong focus on scalable applications, Clean Architecture, and modern software engineering practices.
 
